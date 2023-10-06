@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: camil
+Build-Jdk: 17.0.8.1
+Implementation-Title: pruebanisum
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.nisum.prueba
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-boot
+ -starter-parent/pruebanisum
+Created-By: Maven Integration for Eclipse
+
